@@ -5,7 +5,7 @@ if you have any questions or suggestions, feel free to drop me a message. I'm al
 #### Linkedin: https://www.linkedin.com/in/aldanaalqabbani/
 
 
-![](https://komarev.com/ghpvc/?danahaaq=your-github-danahaaq)
+![](https://komarev.com/ghpvc/?danahaaq=your-github-danahaaq&color=green)
 
 
 
